@@ -24,7 +24,6 @@
   <img align="center" alt="Leonardo-CSharp" height="40" width="40" src="https://icongr.am/devicon/csharp-original.svg">
   <img align="center" alt="Leonardo-ASP" height="40" width="40" src="https://icongr.am/devicon/dot-net-original.svg">
   <img align="center" alt="Leonardo-React" height="40" width="40" src="https://icongr.am/devicon/react-original.svg">
-  <img align="center" alt="Leonardo-Kotlin" height="40" width="40" src="https://icongr.am/devicon/kotlin-original.svg">
   <img align="center" alt="Leonardo-SQL" height="40" width="40" src="https://icongr.am/devicon/mysql-original.svg">
   <img align="center" alt="Leonardo-Docker" height="40" width="40" src="https://icongr.am/devicon/docker-original.svg">
   <img align="center" alt="Leonardo-Linux" height="40" width="40" src="https://icongr.am/devicon/linux-original.svg">
